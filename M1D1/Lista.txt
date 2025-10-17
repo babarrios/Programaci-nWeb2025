@@ -3,3 +3,4 @@ gato
 casa
 pileta
 verano
+cerveza
