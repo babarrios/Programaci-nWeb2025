@@ -1,0 +1,17 @@
+#contenedor1 {
+    border: 2px solid red;
+    background-color: rgb(255, 255, 255);
+   margin:0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#verde {
+    position: relative;
+    border: 2px solid green;
+    background-color: lightgreen;
+    width: 30%;
+    height: 150px;
+    box-sizing: border-box;
+}

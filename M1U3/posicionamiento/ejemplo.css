@@ -38,3 +38,7 @@ h3{
     height: auto;/*altura automática según el contenido*/
     box-sizing: border-box;/*incluye el padding y el borde en el tamaño total del elemento*/
 }
+h3{
+    margin-top: 40px;/*margen superior*/
+    margin-bottom: 20px;/*margen inferior*/
+}
