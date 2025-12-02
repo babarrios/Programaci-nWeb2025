@@ -1,0 +1,40 @@
+h1{
+    color: red;/*los comentarios se escriben así*/
+    text-align: center;
+    background-color: black;
+    font-size: 40px;
+}
+
+h2{
+    color: blue;
+    text-align: left;
+    background-color: lightgray;
+    font-size: 30px;
+}
+
+p{
+    color: green;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+h3{
+    color: purple;
+    text-align: center;
+    font-size: 24px;
+    background-color: wheat;
+}
+
+#cajita{
+    border: 2px solid red;
+    background-color: yellow;
+    padding: 10px;/*espacio interno*/
+    margin: 15px;
+    width: 300px;
+    height: auto;/*altura automática según el contenido*/
+    box-sizing: border-box;/*incluye el padding y el borde en el tamaño total del elemento*/
+}
