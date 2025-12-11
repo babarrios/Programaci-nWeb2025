@@ -5,21 +5,24 @@
     width: 80%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 #verde {
-    position: relative;
+    display: flex;
     top: 50px;
     left: 50px;
     border: 2px solid green;
     background-color: lightgreen;
     width: 30%;
     height: 150px;
-    box-sizing: border-box;
+    box-sizing: border-box
+    justify-content: center
+    align-items: center;
 }
 
 #amarillo {
-    position: relative;
+    display: flex;
     border: 2px solid orange;
     background-color: yellow;
     width: 30%;
@@ -28,7 +31,7 @@
 }
 
 #rojo {
-    position: absolute;
+    display: flex;
     border: 2px solid red;
     background-color: lightcoral;
     width: 30%;
