@@ -45,10 +45,10 @@
 //    console.log("Tenemos " + frutas[i]); //accedo a cada elemento del array frutas usando el índice i, y el ++ para que vaya aumentando en cada vuelta del bucle
 //}
 
-const cantidades = [5, 10, 15, 20, 25];
-let suma = 0;
-for (let i = 0; i < cantidades.length; i++) {
-    suma += cantidades[i]; //suma = suma + cantidades[i]; esto es lo mismo que la línea de arriba solo que sumando
-}
+//const cantidades = [5, 10, 15, 20, 25];
+//let suma = 0;
+//for (let i = 0; i < cantidades.length; i++) {
+//    suma += cantidades[i]; //suma = suma + cantidades[i]; esto es lo mismo que la línea de arriba solo que sumando
+//}
 
-console.log("La suma total es: " + suma + " frutas");
+//console.log("La suma total es: " + suma + " frutas");
